@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Abstract_Shape", "Inheritance_Abstract_Shape\Inheritance_Abstract_Shape.csproj", "{79E386E2-83F0-4A52-90C1-63646F9F23D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Interface_Shape", "Inheritance_Interface_Shape\Inheritance_Interface_Shape.csproj", "{8CF7130F-CA1C-4F48-B540-29C3E2248124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Interface_Vehicle", "Inheritance_Interface_Vehicle\Inheritance_Interface_Vehicle.csproj", "{875E1308-92E9-4C7E-8980-EFC7F40E67DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Interface_Bank", "Inheritance_Interface_Bank\Inheritance_Interface_Bank.csproj", "{001EAFA6-F453-4505-B487-69DD8C561700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E386E2-83F0-4A52-90C1-63646F9F23D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E386E2-83F0-4A52-90C1-63646F9F23D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E386E2-83F0-4A52-90C1-63646F9F23D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E386E2-83F0-4A52-90C1-63646F9F23D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF7130F-CA1C-4F48-B540-29C3E2248124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF7130F-CA1C-4F48-B540-29C3E2248124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF7130F-CA1C-4F48-B540-29C3E2248124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF7130F-CA1C-4F48-B540-29C3E2248124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875E1308-92E9-4C7E-8980-EFC7F40E67DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875E1308-92E9-4C7E-8980-EFC7F40E67DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875E1308-92E9-4C7E-8980-EFC7F40E67DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875E1308-92E9-4C7E-8980-EFC7F40E67DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001EAFA6-F453-4505-B487-69DD8C561700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001EAFA6-F453-4505-B487-69DD8C561700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001EAFA6-F453-4505-B487-69DD8C561700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001EAFA6-F453-4505-B487-69DD8C561700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\bin\Debug\net7.0\Inheritance_Interface.exe
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\bin\Debug\net7.0\Inheritance_Interface.deps.json
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\bin\Debug\net7.0\Inheritance_Interface.runtimeconfig.json
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\bin\Debug\net7.0\Inheritance_Interface.dll
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\bin\Debug\net7.0\Inheritance_Interface.pdb
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.AssemblyInfoInputs.cache
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.AssemblyInfo.cs
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.csproj.CoreCompileInputs.cache
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.dll
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\refint\Inheritance_Interface.dll
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.pdb
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\Inheritance_Interface.genruntimeconfig.cache
+C:\Users\nguye\RiderProjects\OOP_Inheritance\Inheritance_Interface\obj\Debug\net7.0\ref\Inheritance_Interface.dll
